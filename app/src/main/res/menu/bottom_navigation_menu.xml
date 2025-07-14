@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/addExpenseFragment"
+        android:icon="@drawable/add_to_category"
+        android:title="@string/add_expense" />
+    <item
+        android:id="@+id/expenseListFragment"
+        android:icon="@drawable/ic_list"
+        android:title="@string/expense_list" />
+    <item
+        android:id="@+id/settingFragment"
+        android:enabled="true"
+        android:icon="@drawable/setting"
+        android:title="@string/setting"/>
+</menu>

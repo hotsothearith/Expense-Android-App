@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Hot Sothearith</string>
+    <string name="expanse_title">Expense Tracker</string>
+    <string name="amount_title">Amount</string>
+    <string name="cartegories_title">Cartegories</string>
+    <string name="remark_title">Remark</string>
+    <string name="button_text">ADD Expense</string>
+    <string name="USD_CRN">USD</string>
+    <string name="KHR_CRN">KHR</string>
+    <string name="manage_your_expense">Manage Your Expense, Hot Sothearith</string>
+    <string name="my_last_expense_was">My Last Expense was 0 </string>
+    <string name="add_new_expense">add new expense</string>
+    <string name="view_detail_expense">view detail expense</string>
+    <string name="back_home">Back Home</string>
+    <string name="create_date">Create date</string>
+    <string name="currency">Currency</string>
+    <string name="expense_detail">Expense Detail</string>
+    <string name="amount">Amount</string>
+
+    <string-array name="categories_array">
+        <item>Food</item>
+        <item>Entertainment</item>
+        <item>Travel</item>
+        <item>Others</item>
+    </string-array>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_page_title">Welcome To Expense World</string>
+    <string name="welcome_page_description">Best Way to Save Your Money Let Start Manage your Expenses Right Now</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="enter_your_mail"> Enter your mail</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password"> Enter your password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="description_login">Welcome Back, Exited To See You Again</string>
+    <string name="create_account">Create Account</string>
+    <string name="create_account_description">Create An Account Easy for Expense Your Spend.</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">sign in</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="toolbar_name">My Toolbar</string>
+    <string name="id">ID</string>
+    <string name="created_by">Created By</string>
+    <string name="expense_tracker_logo">Expense Tracker Logo</string>
+    <string name="please_choose_a_category">please choose a category</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+    <string name="write_your_note">Write your note</string>
+    <string name="enter_your_password_again">Enter your password again</string>
+    <string name="language">Language</string>
+    <string name="choose_your_preferred_language">Choose your preferred language</string>
+    <string name="select_app_color_scheme">Select app color scheme</string>
+    <string name="default_reminder">Default reminder</string>
+    <string name="set_reminder_time_before_task_deadline">Set reminder time before task deadline</string>
+    <string name="backup_tasks">Backup Tasks</string>
+    <string name="click_to_backup_your_tasks_to_a_json_file">Click to backup your tasks to a JSON file</string>
+    <string name="unsynced_tasks">Unsynced Tasks</string>
+    <string name="_1_d_tasks_pending_sync">%1$d tasks pending sync</string>
+    <string name="remark">Remark:</string>
+    <string name="category">Category:</string>
+    <string name="empty">empty</string>
+    <string name="home">Home</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="expense_list">Expense List</string>
+    <string name="setting">Setting</string>
+    <string name="add">Add</string>
+    <string name="category_name">Category Name</string>
+    <string name="new_task">New Task</string>
+    <string name="implicit_intent">Implicit intent</string>
+    <string name="open_rupp_website">📖 Open RUPP Website</string>
+    <string name="view_location">📍 View Location</string>
+    <string name="take_a_photo">📸 Take a Photo</string>
+    <string name="share_text">📤 Share Text</string>
+    <string name="pick_an_image">📂 Pick an Image</string>
+    <string name="dial_a_phone_number">📞 Dial a Phone Number</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="select_from_gallery">Select from Gallery</string>
+    <string name="receipt_image">Receipt Image</string>
+    <string name="show_basic_notification">Show Basic Notification</string>
+    <string name="show_bigtextstyle_notification">Show Bigtextstyle Notification</string>
+    <string name="show_bigpicturestyle_notification">Show bigpicturestyle notification</string>
+    <string name="show_notification_with_action">Show notification with action</string>
+    <string name="test_notification">Test Notification</string>
+
+
+</resources>

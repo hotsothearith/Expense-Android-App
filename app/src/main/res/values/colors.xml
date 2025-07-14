@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Text_title">#000000</color>
+
+    <color name="white">#FFFF</color>
+    <color name="text_btn">#FFFFFF</color>
+    <color name="btn_background">#3252DF</color>
+    <color name="addcartegory">#000</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="black">#FF000000</color>
+    <color name="primary">#1F41BB</color>
+    <color name="text">#494949</color>
+    <color name="colorFocus">#673AB7</color>
+    <color name="completeColor">#4CAF50</color>
+    <color name="todoColor">#2196F3</color>
+    <color name="overdueColor">#C71407</color>
+
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ហ៊ត សុធារិទ្ធ</string>
+    <string name="expanse_title">កម្មវិធីតាមដានចំណាយ</string>
+    <string name="amount_title">ចំនួន</string>
+    <string name="cartegories_title">ប្រភេទ</string>
+    <string name="remark_title">ចំណាំ</string>
+    <string name="button_text">បន្ថែមចំណាយ</string>
+    <string name="USD_CRN">ដុល្លារអាមេរិក</string>
+    <string name="KHR_CRN">រៀល</string>
+    <string name="manage_your_expense">គ្រប់គ្រងការចំណាយរបស់អ្នក, ហ៊ត សុធារិទ្ធ</string>
+    <string name="my_last_expense_was">ការចំណាយចុងក្រោយរបស់ខ្ញុំគឺ 0</string>
+    <string name="add_new_expense">បន្ថែមចំណាយថ្មី</string>
+    <string name="view_detail_expense">មើលព័ត៌មានលម្អិតចំណាយ</string>
+    <string name="back_home">ត្រឡប់ទៅទំព័រដើម</string>
+    <string name="create_date">កាលបរិច្ឆេទបង្កើត</string>
+    <string name="currency">រូបិយប័ណ្ណ</string>
+    <string name="expense_detail">ព័ត៌មានលម្អិតចំណាយ</string>
+    <string name="amount">ចំនួន</string>
+
+    <string-array name="categories_array">
+        <item>អាហារ</item>
+        <item>កម្សាន្ត</item>
+        <item>ការធ្វើដំណើរ</item>
+        <item>ផ្សេងៗ</item>
+    </string-array>
+    <string name="dummy_button">ប៊ូតុងសាកល្បង</string>
+    <string name="dummy_content">មាតិកាសាកល្បង\nមាតិកា</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">ជំរាបសួរ ប្លង់ទទេ</string>
+    <string name="welcome_page_title">សូមស្វាគមន៍មកកាន់ពិភពនៃការចំណាយ</string>
+    <string name="welcome_page_description">វិធីដ៏ល្អបំផុតដើម្បីសន្សំប្រាក់របស់អ្នក សូមចាប់ផ្តើមគ្រប់គ្រងការចំណាយរបស់អ្នកឥឡូវនេះ</string>
+    <string name="login">ចូល</string>
+    <string name="register">ចុះឈ្មោះ</string>
+    <string name="email">អ៊ីមែល</string>
+    <string name="enter_your_mail">បញ្ចូលអ៊ីមែលរបស់អ្នក</string>
+    <string name="password">ពាក្យសម្ងាត់</string>
+    <string name="enter_your_password">បញ្ចូលពាក្យសម្ងាត់របស់អ្នក</string>
+    <string name="sign_up">ចុះឈ្មោះ</string>
+    <string name="create_new_account">បង្កើតគណនីថ្មី</string>
+    <string name="description_login">សូមស្វាគមន៍ត្រឡប់មកវិញ រីករាយដែលបានជួបអ្នកម្តងទៀត</string>
+    <string name="create_account">បង្កើតគណនី</string>
+    <string name="create_account_description">បង្កើតគណនីងាយស្រួលសម្រាប់ការចំណាយរបស់អ្នក។</string>
+    <string name="confirm_password">បញ្ជាក់ពាក្យសម្ងាត់</string>
+    <string name="already_have_an_account">មានគណនីរួចហើយ?</string>
+    <string name="sign_in">ចូល</string>
+    <string name="sign_out">ចេញ</string>
+    <string name="toolbar_name">របារឧបករណ៍របស់ខ្ញុំ</string>
+    <string name="id">លេខសម្គាល់</string>
+    <string name="created_by">បង្កើតដោយ</string>
+    <string name="expense_tracker_logo">រូបសញ្ញាកម្មវិធីតាមដានចំណាយ</string>
+    <string name="please_choose_a_category">សូមជ្រើសរើសប្រភេទ</string>
+    <string name="dd_mm_yyyy">ថ្ងៃ/ខែ/ឆ្នាំ</string>
+    <string name="write_your_note">សរសេរចំណាំរបស់អ្នក</string>
+    <string name="enter_your_password_again">បញ្ចូលពាក្យសម្ងាត់របស់អ្នកម្តងទៀត</string>
+    <string name="language">ភាសា</string>
+    <string name="choose_your_preferred_language">ជ្រើសរើសភាសាដែលអ្នកពេញចិត្ត</string>
+    <string name="select_app_color_scheme">ជ្រើសរើសគ្រោងពណ៌កម្មវិធី</string>
+    <string name="default_reminder">ការរំលឹកលំនាំដើម</string>
+    <string name="set_reminder_time_before_task_deadline">កំណត់ពេលវេលារំលឹកមុនពេលផុតកំណត់កិច្ចការ</string>
+    <string name="backup_tasks">បម្រុងទុកកិច្ចការ</string>
+    <string name="click_to_backup_your_tasks_to_a_json_file">ចុចដើម្បីបម្រុងទុកកិច្ចការរបស់អ្នកទៅឯកសារ JSON</string>
+    <string name="unsynced_tasks">កិច្ចការដែលមិនទាន់ធ្វើសមកាលកម្ម</string>
+    <string name="_1_d_tasks_pending_sync">%1$d កិច្ចការរង់ចាំធ្វើសមកាលកម្ម</string>
+    <string name="remark">ចំណាំ៖</string>
+    <string name="category">ប្រភេទ៖</string>
+    <string name="empty">ទទេ</string>
+
+        <string name="home">ទំព័រដើម</string>
+        <string name="add_expense">បន្ថែមការចំណាយ</string>
+        <string name="expense_list">បញ្ជីចំណាយ</string>
+        <string name="setting">ការកំណត់</string>
+
+    <string name="add">បន្ថែម</string>
+    <string name="category_name">ឈ្មោះប្រភេទ</string>
+    <string name="new_task">កិច្ចការថ្មី</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="open_rupp_website">📖 បើកគេហទំព័រ RUPP</string>
+    <string name="view_location">📍 មើលទីតាំង</string>
+    <string name="take_a_photo">📸 ថតរូប</string>
+    <string name="share_text">📤 ចែករំលែកអត្ថបទ</string>
+    <string name="pick_an_image">📂 ជ្រើសរើសរូបភាព</string>
+    <string name="dial_a_phone_number">📞 ខលលេខទូរស័ព្ទ</string>
+</resources>
